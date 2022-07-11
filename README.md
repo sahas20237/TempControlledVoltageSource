@@ -16,4 +16,4 @@ All information regarding research and results can be found in:
 `Temp-Voltage-Controller.pdf`
 
 ## Video Explanation of Working of Circuit
-`https://www.youtube.com/watch?v=yQtd0mJ9frk`
+[`https://www.youtube.com/watch?v=yQtd0mJ9frk`](https://www.youtube.com/watch?v=yQtd0mJ9frk)
